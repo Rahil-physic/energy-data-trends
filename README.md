@@ -23,3 +23,14 @@ The goal of this project is to analyze historical global energy production and c
 - Data analysis  and visualization using `matplotlib` and `seaborn`
 
 
+## 📂 Data Source
+
+The dataset used in this analysis is publicly available on **Kaggle**:
+
+📊 [World Energy Consumption Dataset (1900–2023)](https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption)
+
+**Author:** Pralabh Poudel  
+**Source:** Our World in Data  
+**License:** Open Data Commons Attribution License  
+
+This dataset contains global and country-level records of energy production and consumption by source (coal, oil, gas, hydro, nuclear, solar, wind, and other renewables), covering the period **1900–2023**.
